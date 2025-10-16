@@ -1,1 +1,1 @@
-Development branch started
+## About\nThis is my Git training project.
